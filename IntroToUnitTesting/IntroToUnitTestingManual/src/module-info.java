@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module IntroToUnitTestingManual {
-	requires junit;
-}
